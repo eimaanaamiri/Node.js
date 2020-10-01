@@ -3,7 +3,10 @@ Node.js Expess MongoDB CRUD
 
 Content discussed :
 
-Form Design
-Post Form Data into Node.js
-Implemented Form Validation with mongoose model
-Insert, Update and Delete with Node and MongoDB
+1. Form Design
+
+2. Post Form Data into Node.js
+
+3. Implemented Form Validation with mongoose model
+
+4. Insert, Update and Delete with Node and MongoDB
